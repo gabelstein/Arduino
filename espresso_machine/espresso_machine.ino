@@ -10,6 +10,8 @@ int button     = 0;
 int button_prev = 1;
 int input  = 0;
 int pos_cursor = 0;
+int toogle_pos[] = {}:
+
 #define btnRIGHT  0
 #define btnUP     1
 #define btnDOWN   2
